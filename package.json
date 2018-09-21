@@ -1,0 +1,15 @@
+{
+    "name": "totcop",
+    "version": "1.0.0",
+    "description": "",
+    "main": "inedx.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Group21",
+    "license": "",
+    "dependencies": {
+        "knex": "^0.15.2",
+        "sqlite3": "^4.0.2"
+    }
+}
